@@ -25,6 +25,8 @@ Every strategy implements the same `plan(graph, demands)` /
 `react(graph, plan, failure)` interface, so `benchmark.run` can score all
 three on identical topologies and failure scenarios.
 
+![RecoveryStrategy interface and its three implementations](docs/interface.svg)
+
 ## Setup
 
 ```bash

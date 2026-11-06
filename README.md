@@ -18,6 +18,7 @@ src/net_restoration_bench/
     global_recompute.py  online MILP resolve, no reserved capacity
   metrics.py         capacity overhead, restoration rate, churn, path stretch
   benchmark.py       runs every strategy over the same scenarios
+  plotting.py        overhead/restoration/solver-time/churn figures, topology view
 tests/
 ```
 

@@ -5,6 +5,8 @@ protection (SBPP), Fast Reroute and global MILP recomputation — on capacity
 overhead, restoration rate, reaction time and path stretch. Proposal for the
 *Discrete and Network Optimization Problems M* exam.
 
+See [ROADMAP.md](ROADMAP.md) for where the project stands and what's next.
+
 ## Layout
 
 ```
